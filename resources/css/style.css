@@ -1,0 +1,10 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #E6E4D8;
+  }
+
+  a.menu-hover:hover {
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 50px;
+  }
